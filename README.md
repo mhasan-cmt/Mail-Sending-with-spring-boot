@@ -1,4 +1,4 @@
 # Mail-Sending-with-spring-boot
-##Mail Sending client with java mail sender.
+## Mail Sending client with java mail sender.
 
 
